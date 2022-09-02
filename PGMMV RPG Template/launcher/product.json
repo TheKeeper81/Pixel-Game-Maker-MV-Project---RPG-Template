@@ -1,0 +1,9 @@
+{
+	"internal_game-id": "",
+	"external_game-id": "",
+	"title": "PGMMV RPG Template",
+	"description": "This file was originally copied from my RPG Template - Inventory and UI 17 project file. This new file is intended to serve as the basis for:\n\n1) My Git Local Repository, which I'll now be using to store multiple iterations of this project. I felt this would be a much more efficient method of creating a version history of my project file, rather than creating a new\nproject folder every time I wanted to preserve my progress without overriding work up to a certain point.\n\n2) The game project I will register with Gotcha Gotcha Games (GGG) for upload and testing with the Nintendo Switch. I need to have a single, consistent project file to use for upload and testing with the Nintendo Switch\nplatform. This will be that project file. This underscores point #1, in that I will want to keep a single, working file, but have multiple version histories to fall back upon in case something goes wrong with my\nexperimentation and learning progress.\n\nThis project is meant to serve as a template for further RPG projects I will have in the future. While the initial setup takes a lot of time and effort, the hope is that subsequent setups will be simply a matter of\nadding in resources specific to the game I want to make and a script for telling the story I wish to tell. In other words, while setup of this project is a bit time-consuming, the payoff will be such that I can get a\nRPG game that I want to make up and running within a short amount of time.",
+	"author": "Opalin Hubay Pickens",
+	"version": "1.0",
+	"player-version": "1.0.5"
+}
