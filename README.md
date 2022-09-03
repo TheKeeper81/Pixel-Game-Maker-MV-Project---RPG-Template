@@ -21,6 +21,16 @@ https://opengameart.org/content/ui-sfx-pack-2-sample
 
 The particle effects came from the built-in particle effect generator.
 
+I have the following fonts installed:
+
+1) Lora-Regular and Lora-Bold
+
+https://www.fontsquirrel.com/fonts/lora
+
+2) Latin Modern Math (Note: I will be deleting this one from my project file, as the conversion to ttf did not play well with the maker, making this font not quite useful to me.)
+
+https://www.fontsc.com/font/alternatives/century-schoolbook
+
 As of this writing, this project file makes use of two 3rd party plugins:
 
 1) kidthales' Linear Movement Plugin, which allows an object to move to a set of variable coordinates.
@@ -30,6 +40,30 @@ https://github.com/kidthales/pgmmv-support/tree/main/plugins
 2) baz's MenuSceneMouse Plugin, which enables mouse functionality in one's games.
 
 https://bazratcreates.itch.io/baz-imports
+
+I used the following tutorials to create what I have so far:
+
+1) PGMMV's built-in tutorial for a top-down game. Access by going to Help-->Tutorials and selecting the appropriate tutorial.
+
+2) baz's Let's Make a Menu videos.
+
+https://www.youtube.com/watch?v=lBDl1AO5bqI&t=42s
+
+https://www.youtube.com/watch?v=mQuXFG66TR4
+
+https://www.youtube.com/watch?v=Ge2_l_YdJc8
+
+https://www.youtube.com/watch?v=uOVarlLVw5Y
+
+https://www.youtube.com/watch?v=HWjqpHQSbjE
+
+https://www.youtube.com/watch?v=USQFBzdwSBc
+
+3) VcentG's Dynamic Inventory System, which is a combination sample project and video.
+
+Sample: https://vcentg.itch.io/dynamic-or-static-inventory-pixel-game-maker-mv-sample
+
+Video: https://youtu.be/QcE-tglIODU
 
 This template is currently a Work-In-Progress. In other words, it is not complete and is far from perfect. Indeed, as I make this template, I'm learning more and more about how the engine works, and since my understanding of PGMMVV is only rudimentary, you can be assured that there *will* be bugs. Hopefully, as I progress in my understanding of PGMMV, these bugs will become less and less prominent.
 
