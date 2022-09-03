@@ -41,6 +41,8 @@ https://github.com/kidthales/pgmmv-support/tree/main/plugins
 
 https://bazratcreates.itch.io/baz-imports
 
+Tutorial video on how to use the plugin is found here: https://www.youtube.com/watch?v=-JFoVQm9_lo&t=452s
+
 I used the following tutorials to create what I have so far:
 
 1) PGMMV's built-in tutorial for a top-down game. Access by going to Help-->Tutorials and selecting the appropriate tutorial.
