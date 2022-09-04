@@ -1,4 +1,7 @@
 # Pixel-Game-Maker-MV-Project---RPG-Template
+
+# September 2, 2022
+
 This is a project file for the Pixel Game Maker MV engine. It's set up to work as a template for any role-playing games I decide to make with PGMMV.
 
 The images were all made by me, TheKeeper, aka TheKeeper81. I originally created the body sprites for use with the RPG Maker engines. I wasn't very happy with the chibi characters and wanted sprites that looked more adult and fit in with the type of stories I tend to tell. So I initially got to work with pencil and paper, then traced and refined the work in Photoshop with the aid of my Wacom tablet. The body sprites were the result, and I'm rather pleased with them. I shared the male and female body sprites on DeviantArt. As the gender neutral body sprites were made a little afterwards, I've actually yet to make them available for download. If you like these sprites, feel free to use them in your own projects with any tool you please, be it RPG Maker, Pixel Game Maker, Unity, or what have you. The rest of the images I created were meant to be placeholders more than anything else--even the clothing and hair sprites. Replace with nicer artowrk as needed.
@@ -110,4 +113,19 @@ Mouse and Keyboard: Left Click on the inventory object and hold down the O key, 
 Controller: Push the Right Stick in the direction you want the inventory object to move, then press the X Button. The inventory object should begin moving. Use the Rightt Stick to steer the object to the desired slot.
 
 I believe those are all the controls for now. These are subject to change as I update the template.
+
+# 
+
+September 4, 2022
+=====
+
+I've solved the misalignment problem concerning the text for the Choices menu. I found that the problem was two-fold:
+
+1) The Position--Frontmost + Menu Scene option in the Show Text command seems to have a problem with keeping text properly aligned. I'm unsure if this is a bug in the feature, or if it's conflicting with the commands and settings I have for my menu system. I'm unable to get confirmation either way.
+
+2) Wihtout the Position option, the text would disappear off the buttons, as if being covered up by them. The reason behind this behavior was due to
+the fact that I did not choose a Motion image for the object. Without that image, the object was invisible--along with the text. Once I set the image,
+everything worked as intended. The text is visible and remains in proper alignment.
+
+With this fix, I can now move on to using this custom Choices menu with the Character Customization System, as it, too, makes use of choices input by the player.
 
