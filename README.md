@@ -123,9 +123,7 @@ I've solved the misalignment problem concerning the text for the Choices menu. I
 
 1) The Position--Frontmost + Menu Scene option in the Show Text command seems to have a problem with keeping text properly aligned. I'm unsure if this is a bug in the feature, or if it's conflicting with the commands and settings I have for my menu system. I'm unable to get confirmation either way.
 
-2) Wihtout the Position option, the text would disappear off the buttons, as if being covered up by them. The reason behind this behavior was due to
-the fact that I did not choose a Motion image for the object. Without that image, the object was invisible--along with the text. Once I set the image,
-everything worked as intended. The text is visible and remains in proper alignment.
+2) Wihtout the Position option, the text would disappear off the buttons, as if being covered up by them. The reason behind this behavior was due to the fact that I did not choose a Motion image for the object. Without that image, the object was invisible--along with the text. Once I set the image, everything worked as intended. The text is visible and remains in proper alignment.
 
 With this fix, I can now move on to using this custom Choices menu with the Character Customization System, as it, too, makes use of choices input by the player.
 
