@@ -127,3 +127,11 @@ I've solved the misalignment problem concerning the text for the Choices menu. I
 
 With this fix, I can now move on to using this custom Choices menu with the Character Customization System, as it, too, makes use of choices input by the player.
 
+#
+
+September 7, 2022
+=====
+
+I've finished implementing my custom Choices menu with the few, current items that ask the player to make choices. It works with *both* mouse/keyboard and controller so that everything is nice and consistent now.
+
+I think my next task will be to implement a simple player stat and level system. The first actual game I want to make with PGMMV will not be one in which the player directly allocates stat points. Instead, the player will improve stats largely through mixing and matching gear. This idea is inspired largely by Final Fantasy 14's system in which player statistics and class is dependent upon the gear worn and weapons readied. Eventually, at some point in the future, I will investigate the ability to directly input and manipulate player character stats, as is done in Dungeons & Dragons Online, but that won't be for a long while yet. For now, for my first game, this initial system will suffice.
